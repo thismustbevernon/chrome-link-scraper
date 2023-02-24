@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name":"physing",
+    "version":"1.0.0",
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "permissions":["activeTab", "scripting"]
+
+ 
+
+
+
+}
